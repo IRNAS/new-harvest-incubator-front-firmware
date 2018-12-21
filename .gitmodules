@@ -16,3 +16,6 @@
 [submodule "DallasTemperature"]
 	path = DallasTemperature
 	url = https://github.com/milesburton/Arduino-Temperature-Control-Library
+[submodule "AutoPID"]
+	path = AutoPID
+	url = https://github.com/r-downing/AutoPID
