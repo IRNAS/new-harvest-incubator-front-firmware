@@ -19,3 +19,6 @@
 [submodule "AutoPID"]
 	path = AutoPID
 	url = https://github.com/r-downing/AutoPID
+[submodule "Blynk"]
+	path = Blynk
+	url = https://github.com/blynkkk/blynk-library
